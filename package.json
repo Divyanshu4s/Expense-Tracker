@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ABSphreak/expense-tracker-app.git"
+    "url": "git+https://github.com/Divyanshu4s/Expense-Tracker.git"
   },
-  "author": "Abhinav Sharma",
+  "author": "Divyanshu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ABSphreak/expense-tracker-app/issues"
+    "url": "https://github.com/Divyanshu4s/Expense-Tracker/issues"
   },
-  "homepage": "https://github.com/ABSphreak/expense-tracker-app#readme",
+  "homepage": "https://github.com/Divyanshu4s/Expense-Tracker#readme",
   "dependencies": {
     "colors": "^1.4.0",
     "dotenv": "^8.2.0",
